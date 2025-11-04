@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameWorld\ here.\r\n\ \r\n\ @author\ (Dino\ Angelovski)\ \r\n\ @version\ (Version\ 1)\r\n
+comment1.params=
+comment1.target=GameWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ incrementScore()
+comment4.params=
+comment4.target=void\ showScore()
+comment5.params=
+comment5.target=void\ spawnFish()
+comment6.params=
+comment6.target=void\ spawnObstacles()
+comment7.params=x\ y
+comment7.target=boolean\ isSpotAvailable(int,\ int)
+comment8.params=
+comment8.target=void\ showWinMessage()
+comment9.params=
+comment9.target=int\ getScore()
+numComments=10
